@@ -51,6 +51,8 @@ Precio: 6782.05 €
 
 Precio: 2475 € (IVA no incluido)
 
+### BCN3D Epsilon
+
 [![BCN3D Epsilon](https://www.bcn3d.com/wp-content/uploads/2019/11/bcn3d-epsilon-3d-printer_crop.jpg)](https://www.bcn3d.com/bcn3d-epsilon/)
 
 Precio: 6995 € (IVA no incluido)
