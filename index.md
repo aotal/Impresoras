@@ -35,7 +35,7 @@ Se trata de la técnica más común en cuanto a impresoras 3D de escritorio y us
 
 ### Ultimaker S3
 
-[![Ultimaker S3](https://eltucan.es/1924-large_default/ultimaker-s3.jpg)
+[![Ultimaker S3](https://eltucan.es/1924-large_default/ultimaker-s3.jpg)](https://ultimaker.com/es/3d-printers/ultimaker-s3)
 
 Precio: 4112 €
 
