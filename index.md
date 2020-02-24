@@ -13,7 +13,7 @@ Con este método se consiguen piezas de altísima calidad, aunque, por sacar un 
 
 ### Formlabs Form 3B Complete Package (Especial app dentales)
 
-[![Formlabs Form 3](https://dental-media.formlabs.com/filer_public_thumbnails/filer_public/72/97/7297af97-b8dd-4f40-a128-63a5b74376f6/form3b-product.png__1354x0_q85_subsampling-2.png)](https://dental.formlabs.com/store/form-3b/)
+[![Formlabs Form 3](https://www.impresoras3d.com/wp-content/uploads/2019/09/Formlabs-Form-3.jpg)](https://dental.formlabs.com/store/form-3b/)
 
 Precio: 5999 $ (3925 € un modelo [más básico](https://www.igo3d.com/formlabs-form-3-fls-drucker))
 
