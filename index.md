@@ -1,8 +1,5 @@
 
 
-# Impresosas de resina
-
-
 # Impresoras de deposición de material fundido (FDM)
 
 La técnica aditiva del modelado por deposición fundida es una tecnología que consiste en depositar polímero fundido sobre una base plana, capa a capa. El material, que inicialmente se encuentra en estado sólido almacenado en rollos, se funde y es expulsado por la boquilla en minúsculos hilos que se van solidificando conforme van tomando la forma de cada capa. Se trata de la típica bobina de  filamento pla, abs, etc.
