@@ -53,6 +53,6 @@ Precio: 5999 $ (3925 € un modelo [más básico](https://www.igo3d.com/formlabs
 
 ### Hunter de FlashForge
 
-[![Hunter](https://www.flashforge-eu.com/image/cache/catalog/product/flashforge/hunter/flashforge-hunter-02-1280x720.jpg)](https://dental.formlabs.com/store/form-3b/)
+[![Hunter](https://www.flashforge-eu.com/image/cache/catalog/product/flashforge/hunter/flashforge-hunter-02-1280x720.jpg)](https://www.flashforge-eu.com/flashforge-3d-printers/flashforge-hunter)
 
 Precio: 3995 €
