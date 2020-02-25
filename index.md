@@ -2,27 +2,6 @@
 
 # Impresosas de resina
 
-## Estereolitografía (SLA)
-
-Consiste en la aplicación de un haz de luz ultravioleta a una resina líquida (contenida en un cubo) sensible a la luz. La luz UV va solidificando la resina capa por capa. La base que soporta la estructura se desplaza hacia abajo para que la luz vuelva a ejercer su acción sobre el nuevo baño, así  hasta que el objeto alcance la forma deseada.
-
-Con este método se consiguen piezas de altísima calidad, aunque, por sacar un inconveniente, se desperdicia cierta cantidad de material en función del soporte que sea necesario fabricar.
-
-
-## Modelos
-
-### Formlabs Form 3B Complete Package (Especial app dentales)
-
-[![Formlabs Form 3](https://www.impresoras3d.com/wp-content/uploads/2019/09/Formlabs-Form-3.jpg)](https://dental.formlabs.com/store/form-3b/)
-
-Precio: 5999 $ (3925 € un modelo [más básico](https://www.igo3d.com/formlabs-form-3-fls-drucker))
-
-### Hunter de FlashForge
-
-[![Hunter](https://www.flashforge-eu.com/image/cache/catalog/product/flashforge/hunter/flashforge-hunter-02-1280x720.jpg)](https://dental.formlabs.com/store/form-3b/)
-
-Precio: 3995 €
-
 
 # Impresoras de deposición de material fundido (FDM)
 
@@ -56,3 +35,24 @@ Precio: 2475 € (IVA no incluido)
 [![BCN3D Epsilon](https://www.bcn3d.com/wp-content/uploads/2019/11/bcn3d-epsilon-3d-printer_crop.jpg)](https://www.bcn3d.com/bcn3d-epsilon/)
 
 Precio: 6995 € (IVA no incluido)
+
+## Estereolitografía (SLA)
+
+Consiste en la aplicación de un haz de luz ultravioleta a una resina líquida (contenida en un cubo) sensible a la luz. La luz UV va solidificando la resina capa por capa. La base que soporta la estructura se desplaza hacia abajo para que la luz vuelva a ejercer su acción sobre el nuevo baño, así  hasta que el objeto alcance la forma deseada.
+
+Con este método se consiguen piezas de altísima calidad, aunque, por sacar un inconveniente, se desperdicia cierta cantidad de material en función del soporte que sea necesario fabricar.
+
+
+## Modelos
+
+### Formlabs Form 3B Complete Package (Especial app dentales)
+
+[![Formlabs Form 3](https://www.impresoras3d.com/wp-content/uploads/2019/09/Formlabs-Form-3.jpg)](https://dental.formlabs.com/store/form-3b/)
+
+Precio: 5999 $ (3925 € un modelo [más básico](https://www.igo3d.com/formlabs-form-3-fls-drucker))
+
+### Hunter de FlashForge
+
+[![Hunter](https://www.flashforge-eu.com/image/cache/catalog/product/flashforge/hunter/flashforge-hunter-02-1280x720.jpg)](https://dental.formlabs.com/store/form-3b/)
+
+Precio: 3995 €
