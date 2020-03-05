@@ -33,11 +33,11 @@ Precio: 2475 € (IVA no incluido)
 
 Precio: 6995 € (IVA no incluido)
 
-### Intamsys Funmat HT
+### Intamsys Funmat HT Enhanced
 
-[![Intamsys Funmat HT](https://cdn03.plentymarkets.com/ioseuwg7moqp/item/images/23464/middle/FUNMAT-HT-FUNMAT-HT-23464_1.png)](https://www.3dprima.com/3d-printers/intamsys-funmat-ht/a-23464/?belboon=03add90956b9050dc1005a88,4975130,)
+[![Intamsys Funmat HT Enhanced](https://ucarecdn.com/46dffc60-92eb-47c5-8c66-0bf7e3e3a4ca/-/format/auto/-/preview/3000x3000/-/quality/lighter/)](https://visionminer.com/products/funmat-ht-enhanced)
 
-Precio: 5990 € (Sin doble extrusión pero con muy alta temperatura de impresión) (material PEEK)
+Precio: 6990 € (Sin doble extrusión pero con muy alta temperatura de impresión) (material PEEK)
 
 ### CreatBot F430
 
