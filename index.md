@@ -37,7 +37,11 @@ Precio: 6995 € (IVA no incluido)
 
 [![Intamsys Funmat HT](https://cdn03.plentymarkets.com/ioseuwg7moqp/item/images/23464/middle/FUNMAT-HT-FUNMAT-HT-23464_1.png)](https://www.3dprima.com/3d-printers/intamsys-funmat-ht/a-23464/?belboon=03add90956b9050dc1005a88,4975130,)
 
-Precio: 5990 € (Sin doble extrusión pero con muy alta temperatura de impresión)
+Precio: 5990 € (Sin doble extrusión pero con muy alta temperatura de impresión) (material PEEK)
+
+### CreatBot F430
+
+[![CreatBot F430](https://cdn.shopify.com/s/files/1/0048/6237/8054/products/3d-printer-creatbot-f430-3d-printer-1_1800x1800.jpg?v=1553643148)](https://www.creatbot.com/en/creatbot-f430.html?gclid=CjwKCAiA44LzBRB-EiwA-jJipLMXEr9Axsb-T1KaeQNHc3R4JGZx15QwZNzleFh06XTRv-aU5jrcOhoCC3UQAvD_BwE)
 
 ## Estereolitografía (SLA)
 
