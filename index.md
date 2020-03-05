@@ -33,7 +33,14 @@ Precio: 2475 € (IVA no incluido)
 
 Precio: 6995 € (IVA no incluido)
 
+### Intamsys Funmat HT
+
+[![Intamsys Funmat HT](https://cdn03.plentymarkets.com/ioseuwg7moqp/item/images/23464/middle/FUNMAT-HT-FUNMAT-HT-23464_1.png)](https://www.3dprima.com/3d-printers/intamsys-funmat-ht/a-23464/?belboon=03add90956b9050dc1005a88,4975130,)
+
+Precio: 5990 € (Sin doble extrusión pero con muy alta temperatura de impresión)
+
 ## Estereolitografía (SLA)
+
 
 Consiste en la aplicación de un haz de luz ultravioleta a una resina líquida (contenida en un cubo) sensible a la luz. La luz UV va solidificando la resina capa por capa. La base que soporta la estructura se desplaza hacia abajo para que la luz vuelva a ejercer su acción sobre el nuevo baño, así  hasta que el objeto alcance la forma deseada.
 
